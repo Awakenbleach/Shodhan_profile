@@ -4,7 +4,7 @@ export const portfolio: PortfolioConfig = {
   personal: {
     name: "Shodhan K Ganiga",
     title: "Software Engineer | Backend Developer",
-    location: "Pune, India",
+    location: "Bangalore, India",
     email: "shodhan2901@gmail.com",
     phone: "+91 9019050668",
     profileImage: "/profile.jpg",
