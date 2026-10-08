@@ -38,7 +38,7 @@ export const portfolio: PortfolioConfig = {
     {
       company: "Tata Consultancy Services (TCS)",
       role: "System Engineer",
-      location: "Pune, India",
+      location: "Bangalore, India",
       startDate: "May 2025",
       endDate: "Present",
       description:

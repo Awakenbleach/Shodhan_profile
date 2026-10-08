@@ -54,7 +54,7 @@ async function generateResume() {
   y -= 16;
 
   // Contact Info
-  const contact = "Pune, India  |  9019050668  |  shodhan2901@gmail.com  |  LinkedIn: linkedin.com/in/shodhan-k-ganiga-ba32a42a2";
+  const contact = "Bangalore, India  |  9019050668  |  shodhan2901@gmail.com  |  LinkedIn: linkedin.com/in/shodhan-k-ganiga-ba32a42a2";
   const contactWidth = fontRegular.widthOfTextAtSize(contact, 8.5);
   page.drawText(contact, {
     x: (width - contactWidth) / 2,
@@ -145,7 +145,7 @@ async function generateResume() {
   });
   y -= 12;
 
-  page.drawText("Tata Consultancy Services (TCS), Pune | May 2025 – Present", {
+  page.drawText("Tata Consultancy Services (TCS), Bangalore | May 2025 – Present", {
     x: margin,
     y,
     size: 9,
